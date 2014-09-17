@@ -2,9 +2,7 @@
 
 This project is the API documentation of the updown.bz API. It'll show you available API calls and examples for different programing languages. If you like, commit your example codes, other changes or link in updown.bz related projects. The updown.bz APi includes everything you need to work with your files, upload, download, account, ... .
  
- ## Basics
-
-
+## Basics
 The API is based on [JSON](http://en.wikipedia.org/wiki/JSON)-objects, which will be transfered with [HTTP-POST](http://en.wikipedia.org/wiki/POST_(HTTP), thus you'll need to set the _Content-Type_ to _application/json; charset=utf-8_. Because all our connections are secured via [SSL](http://en.wikipedia.org/wiki/Transport_Layer_Security) only use  [HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure)-connections. Post all JSON-objects to _https://api.updown.bz_.
 
 Each transmitted JSON object consists of a minimum of two properties _m (module)_ and _a (action)_. Optional properties are _i (request id)_, _d (data)_, _s (session token)_. The _request id_ could be any string or number, which you can use to keep track of all your requests. The API is just passing it through. _data_ will be used to append specified payload for the particular API call. If you use authenticated API calls, set the _session token_ property, which you got from a login API call (see below).
