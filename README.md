@@ -22,7 +22,7 @@ The easiest API call is the link checker call. Set the _data_-property _id_ to a
 }
 ```
 
-For a quick test, use the following [PHP]() code, which uses [PHP-cURL](http://php.net/manual/en/book.curl.php) to transmit the JSON-object from above:
+For a quick test, use the following [PHP](http://php.net/docs.php) code, which uses [PHP-cURL](http://php.net/manual/en/book.curl.php) to transmit the JSON-object from above:
 
 ```php
 <?php
