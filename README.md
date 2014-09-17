@@ -1,5 +1,8 @@
 # updown.bz - Open API
 
+* auto-gen TOC:
+{:toc}
+
 This project is the API documentation of the updown.bz API. It'll show you available API calls and examples for different programing languages. If you like, commit your example codes, other changes or link in updown.bz related projects. The updown.bz APi includes everything you need to work with your files, upload, download, account, ... .
  
 ## Basics
