@@ -110,6 +110,7 @@ write me
 + Login | PHP -> [Gist](https://gist.github.com/elmoyak/cbd6973b4f27700fff00)
 + Login/Download | Java -> [jDownloader plugin](https://github.com/svn2github/jdownloader/blob/9e70773ac2d4b44ec7f93e41d97a6376d0c71c26/src/jd/plugins/hoster/UpDownBz.java)
 + Upload | Java -> [NeembuuUploader plugin](http://sourceforge.net/p/neembuuuploader/code/HEAD/tree/NeembuuUploader/src/neembuuuploader/uploaders/UpdownBz.java)
-+ Rapidleech workspace | PHP -> [Rapidleech](https://github.com/elmoyak/rapidleech)
++ Rapidleech - coming soon | PHP -> [Rapidleech](https://github.com/elmoyak/rapidleech)
 + CandiSoft load! | C/C++/Delphi -> [load!](http://www.candisoft.com/?q=de/node/8)
 + mipony | plugin is coming soon [mipony](http://www.mipony.net)
++ [zoom uploader](http://z-o-o-m.eu/)
