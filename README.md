@@ -112,3 +112,4 @@ write me
 + Upload | Java -> [NeembuuUploader plugin](http://sourceforge.net/p/neembuuuploader/code/HEAD/tree/NeembuuUploader/src/neembuuuploader/uploaders/UpdownBz.java)
 + Rapidleech workspace | PHP -> [Rapidleech](https://github.com/elmoyak/rapidleech)
 + CandiSoft load! | C/C++/Delphi -> [load!](http://www.candisoft.com/?q=de/node/8)
++ mipony | plugin is coming soon [mipony](http://www.mipony.net)
